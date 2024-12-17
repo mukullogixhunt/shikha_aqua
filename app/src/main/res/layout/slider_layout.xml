@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.imageview.ShapeableImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sliderImage"
+    android:scaleType="fitXY"
+    android:background="@drawable/round_corner20"
+    app:shapeAppearanceOverlay="@style/roundedCorners6"
+    android:adjustViewBounds="true">
+
+</com.google.android.material.imageview.ShapeableImageView>

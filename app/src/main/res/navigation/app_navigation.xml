@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation.xml"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.logixhunt.shikhaaqua.ui.fragments.bottomnavigation.HomeFragment"
+        android:label=""
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_orders"
+        android:name="com.logixhunt.shikhaaqua.ui.fragments.bottomnavigation.OrdersFragment"
+        android:label=""
+        tools:layout="@layout/fragment_orders" />
+
+    <fragment
+        android:id="@+id/nav_subscription"
+        android:name="com.logixhunt.shikhaaqua.ui.fragments.bottomnavigation.SubscriptionFragment"
+        android:label=""
+        tools:layout="@layout/fragment_subscription" />
+
+    <fragment
+        android:id="@+id/nav_account"
+        android:name="com.logixhunt.shikhaaqua.ui.fragments.bottomnavigation.AccountFragment"
+        android:label=""
+        tools:layout="@layout/fragment_account" />
+
+
+</navigation>

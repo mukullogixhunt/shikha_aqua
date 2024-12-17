@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Shikha Aqua\u2122</string>
+    <string name="default_notification_channel_id">All Notifications</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="heading1"> Welcome to Shikha Aqua</string>
+    <string name="heading2">Find Your Drink Buddy</string>
+    <string name="heading3">Hydration, Easy and Fast</string>
+
+
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+
+    <string name="by_logging_in_your_are_accepting_our">By logging in your are accepting our</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="please_log_in_to_continue_and_be_aware_nof_all_options">Please log in to continue and be aware \nof all options.</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="verify_your_number">Verify your number</string>
+    <string name="we_will_send_a_6_digit_code_to_verify_nyour_number">We will send a 6 digit-code to verify\nyour mobile number.</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">Resend Otp</string>
+    <string name="please_enter_otp">Please enter otp</string>
+    <string name="please_enter_valid_otp">Please enter valid otp</string>
+    <string name="where_do_you_want_to_nlook_for_services">Where do you want to\nlook for Services?</string>
+    <string name="to_enjoy_all_that_karma_has_to_offer_you_we_need_to_know_were_to_look_for_them">To all that Bachat App has to offer you, we need to know were to look for them.</string>
+    <string name="select_your_state">Select your state</string>
+    <string name="select_your_city">Select your city</string>
+    <string name="city">City</string>
+    <string name="please_select_your_city">Please select your city</string>
+    <string name="state">State</string>
+    <string name="please_select_your_state">Please select your state</string>
+
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="account">Account</string>
+
+    <string name="are_you_sure_want_to_logout">Are you sure want to logout ?</string>
+    <string name="are_you_sure_want_to_exit">Are you sure want to exit ?</string>
+    <string name="no">No</string>
+    <string name="Yes">Yes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bhilai_chhattisgarh">Bhilai,Chhattisgarh</string>
+    <string name="delivering_to">Delivering To</string>
+    <string name="our_products">Our Products</string>
+    <string name="recently_ordered">Recently Ordered</string>
+    <string name="aquamate_water_supply">Aquamate Water Supply</string>
+    <string name="_20_ltr">20 Ltr</string>
+    <string name="u20b9_489_00">₹ 489.00</string>
+    <string name="order_now">Order Now</string>
+    <string name="_1">1</string>
+    <string name="proceed_to_checkout">Proceed to checkout</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="your_account_details_and_other_noptions">Your Account Details And Other\nOptions</string>
+
+    <string name="save_changes">Save Changes</string>
+    <string name="please_enter_your_address">Please Enter Your Address</string>
+    <string name="please_enter_your_pincode">Please Enter Your Pincode</string>
+    <string name="please_select_your_date_of_birth">Please Select Your Date Of Birth</string>
+    <string name="please_enter_your_email">Please Enter Your Email</string>
+    <string name="please_enter_your_mobile_number">Please Enter Your Mobile Number</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="pincode">Pincode</string>
+    <string name="address">Address</string>
+    <string name="no_recent_bookings_found">You haven\'t ordered anything recently</string>
+    <string name="my_account">My Account</string>
+
+
+    <string name="account_settings">Account Settings</string>
+    <string name="my_address">My Address</string>
+    <string name="logout">Logout</string>
+    <string name="privacy_and_policy">Privacy Policy</string>
+    <string name="terms_and_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="about_us">About Us</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="my_orders">My Orders</string>
+    <string name="ordering_for">Ordering For</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="delivery_timing">Delivery Timing</string>
+    <string name="notes_message">Notes/Message</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="delivery_charges">Delivery Charges</string>
+    <string name="gst">GST</string>
+    <string name="total">Total</string>
+    <string name="place_order">Place order</string>
+    <string name="choose_delivery_date">Choose Delivery Date</string>
+    <string name="choose_delivery_time">Choose Delivery Time</string>
+    <string name="proceed">Proceed</string>
+
+    <string name="note_please_set_correct_amp_proper_address_that_would_help_us_to_reach_you_soon"><![CDATA[Note : Please set correct & proper address that would help us to reach you soon.]]></string>
+    <string name="delivery_location">Delivery Location</string>
+
+    <string name="google_map_key">AIzaSyBzLYBtmne5PfiyveMN1_IseV_j6K1D1X4</string>
+    <string name="save">Save</string>
+    <string name="optional">(optional)</string>
+    <string name="online">Online</string>
+    <string name="cash_on_delivery">Cash on delivery</string>
+    <string name="order_placed_successfully">Order placed successfully</string>
+    <string name="order_id">Order ID:</string>
+    <string name="order_amount">Order Amount:</string>
+    <string name="view_order_history">View Order History</string>
+    <string name="your_order_could_not_be_placed_please_try_again">Your order could not be placed\nPlease try again</string>
+    <string name="try_again">Try Again</string>
+    <string name="order">Order#:</string>
+    <string name="pending">Pending</string>
+    <string name="accepted">Accepted</string>
+    <string name="in_progress">In Process</string>
+    <string name="delivered">Delivered</string>
+    <string name="enter_pin_six_digit_postal_code">Enter PIN (Six Digit Postal Code) :*</string>
+    <string name="address_">Address :*</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_no">Order no</string>
+    <string name="ordered_items">Ordered Items</string>
+    <string name="order_status">Order Status</string>
+    <string name="order_date">Order Date</string>
+    <string name="order_time">Order Time</string>
+    <string name="delivery_date">Delivery Date</string>
+    <string name="delivery_time">Delivery Time</string>
+    <string name="delivery_charge">Delivery Charge</string>
+    <string name="coupon">Coupon</string>
+    <string name="pay_mode">Payment Mode</string>
+    <string name="delivery_partner">Delivery Partner</string>
+    <string name="area">Area</string>
+    <string name="please_select_your_area">Please select your area</string>
+    <string name="complete_profile">Complete Profile</string>
+    <string name="please_fill_your_details_and_ncomplete_your_profile">Please fill your details and\nComplete your profile</string>
+
+    <string name="my_notifications">My Notifications</string>
+    <string name="list_of_all_notifications_sent_to_you">List of all notifications sent to you</string>
+    <string name="you_haven_t_received_any_notifications_yet">You haven\'t received any notifications yet</string>
+    <string name="privacy_policy_url">https://shikhaaquapure.com/mob-privacy.php</string>
+    <string name="terms_and_condition_url">https://shikhaaquapure.com/mob-terms.php</string>
+    <string name="about_us_url">https://shikhaaquapure.com/mob-about.php</string>
+    <string name="desc3">Making sure you drink enough is really easy with Shikha Aqua. Pick a water bottle, a water jar, or a water pouch that you like with just a tap. Then we\\\'ll bring it right to you. Shikha Aqua makes staying refreshed super simple.</string>
+    <string name="desc2">Get ready to see some awesome stuff at Shikha Aqua! Swipe through our amazing water bottles, nice water jars, and easy-to-carry water pouches. These aren\\\'t just things to hold water – they\'re like your hydration pals. Shikha Aqua has lots of choices, so you can pick what you like best.</string>
+    <string name="desc1">Hi there! Welcome to Shikha Aqua! We\\\'ve got everything you need to keep yourself hydrated. Look at our cool water bottles, big water jars, and easy water pouches. No matter if you\\\'re doing exercises, traveling, or just hanging out, Shikha Aqua has what you want to drink from.</string>
+    <string name="feature_will_be_available_soon">Feature will be available soon</string>
+    <string name="search_area">Search Area</string>
+    <string name="unknown">Unknown</string>
+    <string name="rejected">Rejected</string>
+    <string name="order_rejected">Order Rejected</string>
+    <string name="add_new_location">Add New Location</string>
+    <string name="you_haven_t_saved_any_addresses_yet">You haven\'t saved any addresses yet</string>
+    <string name="add_or_remove_the_address_nyou_have_saved">Add Or Remove the Address\nSaved By You</string>
+    <string name="delivery_slot">Delivery Slot</string>
+    <string name="delivery_date_slot">Delivery Date Slot</string>
+    <string name="delivery_time_slot">Delivery Time Slot</string>
+    <string name="apply_coupon_code">Apply Coupon Code</string>
+    <string name="discount">Discount</string>
+    <string name="coupons">Coupons</string>
+    <string name="enter_coupon_code_here">Enter coupon code here</string>
+    <string name="apply">Apply</string>
+    <string name="no_coupons_found_for_you">No Coupons Found For You</string>
+    <string name="hide_details">Hide Details</string>
+    <string name="view_details">View Details</string>
+    <string name="tap_to_apply">Tap to Apply</string>
+    <string name="pay">Pay</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="payment_amount">Payment Amount</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="payment_successful">Payment Successful</string>
+    <string name="close">Close</string>
+    <string name="payment_failed">Payment Failed</string>
+
+</resources>
