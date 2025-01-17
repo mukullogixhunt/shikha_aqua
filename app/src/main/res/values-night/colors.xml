@@ -1,114 +1,114 @@
 <resources>
-    <!--    <color name="seed">#4bc4de</color>-->
-    <!--    <color name="primary">#54D6F3</color>-->
-    <!--    <color name="onPrimary">#003640</color>-->
-    <!--    <color name="primaryContainer">#004E5B</color>-->
-    <!--    <color name="onPrimaryContainer">#A9EDFF</color>-->
+        <color name="seed">#4bc4de</color>
+        <color name="primary">#54D6F3</color>
+        <color name="onPrimary">#003640</color>
+        <color name="primaryContainer">#004E5B</color>
+        <color name="onPrimaryContainer">#A9EDFF</color>
 
-    <!--    <color name="secondary">#b2cbd2</color>-->
-    <!--    <color name="onSecondary">#1d343a</color>-->
-    <!--    <color name="secondaryContainer">#334a50</color>-->
-    <!--    <color name="onSecondaryContainer">#cee7ee</color>-->
+        <color name="secondary">#b2cbd2</color>
+        <color name="onSecondary">#1d343a</color>
+        <color name="secondaryContainer">#334a50</color>
+        <color name="onSecondaryContainer">#cee7ee</color>
 
-    <!--    <color name="tertiary">#BEC5EB</color>-->
-    <!--    <color name="onTertiary">#282F4D</color>-->
-    <!--    <color name="tertiaryContainer">#3E4565</color>-->
-    <!--    <color name="onTertiaryContainer">#DDE1FF</color>-->
-    <!--    <color name="error">#FFB4AB</color>-->
-    <!--    <color name="errorContainer">#93000A</color>-->
-    <!--    <color name="onError">#690005</color>-->
-    <!--    <color name="onErrorContainer">#FFDAD6</color>-->
-
-
-    <!--    <color name="success">#78dc77</color>-->
-    <!--    <color name="successContainer">#005313</color>-->
-    <!--    <color name="onSuccess">#00390a</color>-->
-    <!--    <color name="onSuccessContainer">#94f990</color>-->
-
-    <!--    <color name="background">#001F25</color>-->
-    <!--    <color name="onBackground">#A6EEFF</color>-->
-    <!--    <color name="surface">#001F25</color>-->
-    <!--    <color name="onSurface">#A6EEFF</color>-->
-    <!--    <color name="surfaceVariant">#3F484B</color>-->
-    <!--    <color name="onSurfaceVariant">#BFC8CB</color>-->
-    <!--    <color name="outline">#899295</color>-->
-    <!--    <color name="inverseOnSurface">#001F25</color>-->
-    <!--    <color name="inverseSurface">#A6EEFF</color>-->
-    <!--    <color name="inversePrimary">#006879</color>-->
-    <!--    <color name="shadow">#000000</color>-->
-    <!--    <color name="surfaceTint">#54D6F3</color>-->
-    <!--    <color name="outlineVariant">#3F484B</color>-->
-    <!--    <color name="scrim">#000000</color>-->
-    <!--    <color name="cardBackground">#424242</color>-->
+        <color name="tertiary">#BEC5EB</color>
+        <color name="onTertiary">#282F4D</color>
+        <color name="tertiaryContainer">#3E4565</color>
+        <color name="onTertiaryContainer">#DDE1FF</color>
+        <color name="error">#FFB4AB</color>
+        <color name="errorContainer">#93000A</color>
+        <color name="onError">#690005</color>
+        <color name="onErrorContainer">#FFDAD6</color>
 
 
-    <color name="primary">#E0C700</color>
+        <color name="success">#78dc77</color>
+        <color name="successContainer">#005313</color>
+        <color name="onSuccess">#00390a</color>
+        <color name="onSuccessContainer">#94f990</color>
 
-    <color name="onPrimary">#383100</color>
+        <color name="background">#001F25</color>
+        <color name="onBackground">#A6EEFF</color>
+        <color name="surface">#001F25</color>
+        <color name="onSurface">#A6EEFF</color>
+        <color name="surfaceVariant">#3F484B</color>
+        <color name="onSurfaceVariant">#BFC8CB</color>
+        <color name="outline">#899295</color>
+        <color name="inverseOnSurface">#001F25</color>
+        <color name="inverseSurface">#A6EEFF</color>
+        <color name="inversePrimary">#006879</color>
+        <color name="shadow">#000000</color>
+        <color name="surfaceTint">#54D6F3</color>
+        <color name="outlineVariant">#3F484B</color>
+        <color name="scrim">#000000</color>
+        <color name="cardBackground">#424242</color>
 
-    <color name="primaryContainer">#514700</color>
 
-    <color name="onPrimaryContainer">#FEE31A</color>
+<!--    <color name="primary">#E0C700</color>-->
 
-    <color name="secondary">#CFC7A2</color>
+<!--    <color name="onPrimary">#383100</color>-->
 
-    <color name="onSecondary">#353117</color>
+<!--    <color name="primaryContainer">#514700</color>-->
 
-    <color name="secondaryContainer">#4C472B</color>
+<!--    <color name="onPrimaryContainer">#FEE31A</color>-->
 
-    <color name="onSecondaryContainer">#ECE3BD</color>
+<!--    <color name="secondary">#CFC7A2</color>-->
 
-    <color name="tertiary">#A8D0B6</color>
+<!--    <color name="onSecondary">#353117</color>-->
 
-    <color name="onTertiary">#123725</color>
+<!--    <color name="secondaryContainer">#4C472B</color>-->
 
-    <color name="tertiaryContainer">#2A4E3A</color>
+<!--    <color name="onSecondaryContainer">#ECE3BD</color>-->
 
-    <color name="onTertiaryContainer">#C3ECD1</color>
+<!--    <color name="tertiary">#A8D0B6</color>-->
 
-    <color name="error">#FFB4AB</color>
+<!--    <color name="onTertiary">#123725</color>-->
 
-    <color name="errorContainer">#93000A</color>
+<!--    <color name="tertiaryContainer">#2A4E3A</color>-->
 
-    <color name="onError">#690005</color>
+<!--    <color name="onTertiaryContainer">#C3ECD1</color>-->
 
-    <color name="onErrorContainer">#FFDAD6</color>
+<!--    <color name="error">#FFB4AB</color>-->
 
-    <color name="background">#1D1C16</color>
+<!--    <color name="errorContainer">#93000A</color>-->
 
-    <color name="onBackground">#E7E2D9</color>
+<!--    <color name="onError">#690005</color>-->
 
-    <color name="surface">#1D1C16</color>
+<!--    <color name="onErrorContainer">#FFDAD6</color>-->
 
-    <color name="onSurface">#E7E2D9</color>
+<!--    <color name="background">#1D1C16</color>-->
 
-    <color name="surfaceVariant">#4A4739</color>
+<!--    <color name="onBackground">#E7E2D9</color>-->
 
-    <color name="onSurfaceVariant">#CCC6B5</color>
+<!--    <color name="surface">#1D1C16</color>-->
 
-    <color name="outline">#959180</color>
-    <color name="outline10">#1A959180</color>
+<!--    <color name="onSurface">#E7E2D9</color>-->
 
-    <color name="inverseOnSurface">#1D1C16</color>
+<!--    <color name="surfaceVariant">#4A4739</color>-->
 
-    <color name="inverseSurface">#E7E2D9</color>
+<!--    <color name="onSurfaceVariant">#CCC6B5</color>-->
 
-    <color name="inversePrimary">#6B5F00</color>
+<!--    <color name="outline">#959180</color>-->
+<!--    <color name="outline10">#1A959180</color>-->
 
-    <color name="shadow">#000000</color>
+<!--    <color name="inverseOnSurface">#1D1C16</color>-->
 
-    <color name="surfaceTint">#E0C700</color>
+<!--    <color name="inverseSurface">#E7E2D9</color>-->
 
-    <color name="outlineVariant">#4A4739</color>
+<!--    <color name="inversePrimary">#6B5F00</color>-->
 
-    <color name="scrim">#000000</color>
+<!--    <color name="shadow">#000000</color>-->
 
-    <color name="success">#78dc77</color>
-    <color name="successContainer">#005313</color>
-    <color name="onSuccess">#00390a</color>
-    <color name="onSuccessContainer">#94f990</color>
+<!--    <color name="surfaceTint">#E0C700</color>-->
 
-    <color name="cardBackground">#424242</color>
+<!--    <color name="outlineVariant">#4A4739</color>-->
+
+<!--    <color name="scrim">#000000</color>-->
+
+<!--    <color name="success">#78dc77</color>-->
+<!--    <color name="successContainer">#005313</color>-->
+<!--    <color name="onSuccess">#00390a</color>-->
+<!--    <color name="onSuccessContainer">#94f990</color>-->
+
+<!--    <color name="cardBackground">#424242</color>-->
     <color name="blue">#3395ff</color>
 
 
